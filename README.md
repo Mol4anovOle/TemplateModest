@@ -3,7 +3,7 @@
 
 It's about 
 --------------
-You can see this [link](https://https://github.com/Mol4anovOle/TemplateModest/index.html) on my Github page
+You can see this [link](https://github.com/Mol4anovOle/TemplateModest) on my Github page
 ***
 on this project you can see:
 * index.html
